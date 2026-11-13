@@ -1,4 +1,4 @@
-#building-defect detection#
+*building-defect detection*
 
 This repository contains the team's reproducible **Faster R-CNN** and
 **RetinaNet** baselines on a curated [MBDD2025](https://doi.org/10.5281/zenodo.15622584)
